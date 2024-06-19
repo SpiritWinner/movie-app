@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_URL = 'https://api.kinopoisk.dev/v1.4/movie';
-const API_KEY = 'ZG3QFJC-FDP4JZR-KQQ8HJH-M0SV6MT';
+const API_KEY = '';
 
 const api = axios.create({
   baseURL: API_URL,
